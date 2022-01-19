@@ -9,7 +9,7 @@ google-ID: ''
 menu:
 # - {name: 'Interesting Facts',  url: 'facts'}
 - {name: 'Learning Resources', url: 'resources'}
-- {name: 'Scientific Publictions',       url: 'sci-publications'}
+- {name: 'Scientific Publications',       url: 'sci-publications'}
 - {name: 'Documentation',      url: 'documentation'}
 - {name: 'About',              url: 'about'}
 - {name: 'Contact',            url: 'contact'}
