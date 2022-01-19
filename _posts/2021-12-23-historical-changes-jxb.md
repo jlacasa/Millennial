@@ -9,7 +9,7 @@ image: light-ext.jpg
 
 In this review paper, ...
 
-![fig. 1](https://github.com/jlacasa/jlacasa.github.io/blob/gh-pages/assets/img/jxb-fig1.png)
+![fig. 1](jxb-fig1.png)
 
 ## Abstract
 
