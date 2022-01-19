@@ -14,7 +14,7 @@ You will find news about my own publications and other I find interesting, plus 
 I was born in Buenos Aires, Argentina.
 I enjoy spending time with family and friends, sports, music, reading and cooking. 
 
-![climbing](https://github.com/jlacasa/jlacasa.github.io/blob/gh-pages/assets/img/hobbies-2.jpg?raw=true)
+![climbing](https://github.com/jlacasa/jlacasa.github.io/blob/gh-pages/assets/img/hobbies-2.jpg?raw=true "Climbing with friends, Arkansas")
 
-![hiking](https://github.com/jlacasa/jlacasa.github.io/blob/53e258d94892d283319ac62bcfcd730d764e5a94/assets/img/hobbies-1.jpg?raw=true)
+![hiking](https://github.com/jlacasa/jlacasa.github.io/blob/53e258d94892d283319ac62bcfcd730d764e5a94/assets/img/hobbies-1.jpg?raw=true "Hiking with my sister, Argentina")
 
