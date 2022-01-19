@@ -4,4 +4,9 @@ title: About
 permalink: /about
 ---
 
-Millennial is a minimalist Jekyll theme. The purpose of this theme is to provide a simple, clean, content-focused publishing platform for your publication site or blog. You can find everything you need to get started under documentation. For more information on how to install and use this theme, check out [the documentation]({{ site.github.url }}{% post_url 2016-10-10-getting-started %}).
+I am a PhD student at Kansas State University. The purpose of this website is to communicate my research in the simplest way possible, so that people can get the most out of it. 
+
+### A little bit about myself:
+I was born in Buenos Aires, Argentina.
+I enjoy spending time with friends, playing different types of sports, reading and cooking. 
+
