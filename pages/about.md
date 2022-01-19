@@ -13,4 +13,5 @@ You will find news about my own publications and other I find interesting, plus 
 #### A little bit about myself:
 I was born in Buenos Aires, Argentina.
 I enjoy spending time with family and friends, sports, music, reading and cooking. 
+![hiking](https://github.com/jlacasa/jlacasa.github.io/blob/53e258d94892d283319ac62bcfcd730d764e5a94/assets/img/hobbies-1.jpg)
 
