@@ -8,5 +8,5 @@ I am a PhD student at Kansas State University. The purpose of this website is to
 
 ### A little bit about myself:
 I was born in Buenos Aires, Argentina.
-I enjoy spending time with friends, playing different types of sports, reading and cooking. 
+I enjoy spending time with family and friends, sports, music, reading and cooking. 
 
