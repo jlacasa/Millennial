@@ -12,7 +12,7 @@ image: light-ext.jpg
 
 We start this review paper with Monteith's quote to hightlight the importance that light distribution has...
 
-![fig. 1](https://github.com/jlacasa/jlacasa.github.io/blob/0f1c549fd2a3820be038a688df07b4f8c82975d3/assets/img/jxb-fig1.png)
+![fig. 1](https://github.com/jlacasa/jlacasa.github.io/blob/gh-pages/assets/img/jxb-fig1.png?raw=true)
 
 ## Abstract
 
