@@ -1,6 +1,6 @@
 ---
 layout: category
-title: Sample Posts
+title: Scientific Publications
 category: sample
 permalink: /sci-publications
 ---
