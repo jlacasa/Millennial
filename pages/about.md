@@ -2,6 +2,7 @@
 layout: page
 title: About
 permalink: /about
+image: jl-about.jpg
 ---
 
 I am a PhD student at Kansas State University. The purpose of this website is to communicate my research in the simplest way possible, so that people can get the most out of it. 
