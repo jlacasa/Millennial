@@ -10,7 +10,7 @@ menu:
 # - {name: 'Interesting Facts',  url: 'facts'}
 - {name: 'Learning Resources', url: 'resources'}
 - {name: 'Scientific Publications',       url: 'sci-publications'}
-- {name: 'Documentation',      url: 'documentation'}
+- {name: 'Blog',      url: 'blog'}
 - {name: 'About',              url: 'about'}
 - {name: 'Contact',            url: 'contact'}
 
