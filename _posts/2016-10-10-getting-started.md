@@ -2,8 +2,8 @@
 layout: post
 title: "Getting Started"
 author: "Josefina Lacasa"
-categories: documentation
-tags: [documentation,sample]
+categories: blog
+tags: [blog,sample]
 image: city-1.jpg
 ---
 
