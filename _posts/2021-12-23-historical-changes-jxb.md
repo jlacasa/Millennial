@@ -4,7 +4,7 @@ title: "Breeding effects on canopy light attenuation in maize: a retrospective a
 author: "Josefina"
 categories: sample
 tags: [sample,documentation]
-image: light-ext.jpg
+image: contrast-jxb.jpg
 ---
 
 > Without exaggeration, ...
