@@ -3,7 +3,7 @@ layout: post
 title: "Breeding effects on canopy light attenuation in maize: a retrospective and prospective analysis - JxB"
 author: "Josefina"
 categories: sample
-tags: [sample,documentation]
+tags: [sample,blog]
 image: contrast-jxb.jpg
 ---
 
