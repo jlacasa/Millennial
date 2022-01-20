@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "A practical guide to estimating the light extinction coefficient"
+title: "A practical guide to estimating the light extinction coefficient - Plant Methods"
 author: "Josefina"
 categories: sample
 tags: [sample]
-image: arctic-1.jpg
+image: light-ext.jpg
 ---
 
 # Markdown Support
