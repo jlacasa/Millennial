@@ -3,7 +3,7 @@ layout: post
 title: "Some books I like"
 author: "Josefina"
 categories: resources
-tags: [documentation,sample]
+tags: [blog,sample]
 image: books.jpg
 ---
 
